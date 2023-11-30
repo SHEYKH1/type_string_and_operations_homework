@@ -7,4 +7,7 @@ def main(first,last):
     Returns:
         str: return answer.
     """
-    return 
+    return a,b
+a="Ozodbek"
+b="Otaboyev"
+print(main(b,a))

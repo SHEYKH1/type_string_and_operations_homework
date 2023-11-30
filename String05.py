@@ -7,4 +7,8 @@ def main(s1,s2):
     Returns:
         str: return answer.
     """
-    return 
+    s1="123"
+    s2="321"
+    S=s1,s2
+    return S
+print(main())

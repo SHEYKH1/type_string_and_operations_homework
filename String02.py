@@ -6,4 +6,6 @@ def main():
     Returns:
         str: return answer.
     """
-    return 
+    x="OOZODBEK"
+    return x
+print(main())
