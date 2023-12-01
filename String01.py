@@ -5,5 +5,5 @@ def main():
     Returns:
         str: return answer.
     """
-    return "Wonderfull"
+    return "Wonderbo"
 print(main())
